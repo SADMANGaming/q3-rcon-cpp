@@ -16,6 +16,8 @@ int main() {
 
 - Sends response
 ```cpp
+#include "sadman/rcon.h"
+
 int main() {
     if (rcon.connect("123.123.1.12", 28961, "rcon password")) {
         std::cout << "Connected successfully." << std::endl;
