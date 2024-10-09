@@ -1,4 +1,4 @@
-# cod-rcon-cpp
+# q3-rcon-cpp
 Header to send rcon commands to Quake 3 based games.
 
 # How to use
