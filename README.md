@@ -4,7 +4,7 @@ Header to send rcon commands to Quake 3 based games.
 # How to use
 
 ```cpp
-#include "rcon.h"
+#include "sadman/rcon.h"
 
 int main() {
     rcon.connect("123.123.1.12", 28961, "rcon password")) {
